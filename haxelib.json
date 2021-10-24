@@ -1,0 +1,13 @@
+{
+  "name": "tjson",
+  "license": "BSD",
+  "tags": ["json","tjson","tolerant","javascript","parser","js","cross"],
+  "description": "Tolerant JSON parser and encoder. Unserializes and serializes JSON data, but without all the strictness of standard JSON parsers. Supports multi and single-line comments, keys without quotes, and single quotes.",
+  "contributors": ["martamius"],
+  "releasenote": "Deprecation fixes for Haxe 4.2.3.",
+  "version": "1.4.1",
+  "url": "https://github.com/martamius/TJSON",
+  "dependencies": {
+
+  }
+}
